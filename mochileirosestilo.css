@@ -1,0 +1,481 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@400;700&display=swap');
+
+
+#banner {
+    height: 1000px;
+    max-width: 1100px;
+    margin-top: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+    }
+    
+    header{
+        font-family: 'Dosis', sans-serif;
+        background: #22A0A0;
+        position: absolute;
+    
+        width: 1920px;
+        height: 158px;
+        left: 0px;
+        top: 0px;
+    
+    }
+    
+    
+    
+    body{
+        font-family: 'Inter', sans-serif;
+    color: #FFFF;
+    
+    
+    }
+    
+    #banner {
+    height: 1000px;
+    max-width: 1100px;
+    margin-top: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+    }
+    
+    #logo {
+    
+    min-width:  100px;
+    height: 90px;
+    left: 1000px;
+    top: 50px; 
+    
+    
+    
+    
+    }
+    
+    #pesquisa input { 
+    
+        width: 257px;
+        height: 36px;
+        margin-left: 1px;
+        border-radius: 10px;
+        margin-top: 75px; 
+        background-color: white;
+        display: block;
+        left: 350px;
+    }
+    #pesquisa img {
+    
+       
+            position: absolute;
+            padding-top: 2px;
+            top: 76px;
+            left: 1000px;
+            transform: matrix(0, -1, -1, 0, 0, 0);
+        
+        
+    
+    }
+    
+    #menu{
+     
+     top: 41px;
+     height: 80px;
+    
+    
+    }
+    
+    #menu ul a{ 
+    
+     list-style: none;
+     text-decoration: none;
+     color: white;
+    
+    }
+    
+    
+    header ul {
+    
+        display: flex;
+    
+    
+    }
+    
+    header ul li{ 
+    display: inline-block;
+    color: #FFFFFF;
+    list-style: none;
+    margin-top: 60px;
+    padding: 7px;
+    
+    
+    
+    }
+    
+    header ul li:hover, header ul li.selecionado {
+    
+        border-bottom: 2px solid #FFFFFF ; 
+    
+    }
+    
+    #rodape {
+    
+        font-family: 'Dosis', sans-serif;
+        background: #22A0A0;
+        position: absolute;
+        width: 1920px;
+        height: 158px;
+        left: 0px;
+        top: 1700px;
+    
+    
+    
+    
+    }
+    
+    #inforodape {
+    
+        font-family: 'Inter', sans-serif;
+        margin-top: 30px;
+        margin-left: 300px;
+    
+    
+    
+    
+    }
+    
+    #inforempresa {
+    
+        font-family: 'Inter', sans-serif;
+    
+    
+    
+    }
+    
+    #logorodape {
+        
+        position: absolute;
+        padding-top: 2px;
+        top: 40px;
+        left: 1450px;
+        
+       
+       
+       
+    
+    
+    }   
+
+
+    #faca {
+
+
+
+        font-family: 'Dosis', sans-serif;
+        color: black;
+        position: absolute;
+        padding-top: 35px;
+        top: 150px;
+        left: 800px;
+    }
+
+    #mocaimagem {
+
+        position: absolute;
+        float: left;
+        left: 440px;
+        top: 300px;
+
+
+
+    }
+
+    #nome1 {
+        
+        font-family: 'Inter', sans-serif;
+        color: black;
+        
+        position: absolute;
+        padding-top: 40px;
+        top: 420px;
+        left: 430px;
+        text-align: center;
+   
+
+
+
+
+
+
+    }
+
+    #texto1 {
+
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        text-align: center;
+        color: black;
+        
+       
+            position: absolute;
+            padding-top: 40px;
+            top: 450px;
+            left: 410px;
+            text-align: center;
+        
+        
+
+
+
+    }
+
+    #feimagem {
+
+        position: absolute;
+        float: center;
+        left: 800px;
+        top: 300px;
+
+
+
+    }
+
+    #nome2 {
+        
+        font-family: 'Inter', sans-serif;
+        color: black;
+        
+        position: absolute;
+        padding-top: 40px;
+        top: 420px;
+        left: 800px;
+        text-align: center;
+   
+
+
+
+
+
+
+    }
+
+    #texto2 {
+
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        text-align: center;
+        color: black;
+        
+       
+            position: absolute;
+            padding-top: 40px;
+            top: 450px;
+            left: 780px;
+            text-align: center;
+        
+        
+
+
+
+    }
+
+
+    #camilaimagem {
+
+        position: absolute;
+        float: center;
+        left: 1150px;
+        top: 300px;
+
+
+
+    }
+
+    #nome3 {
+        
+        font-family: 'Inter', sans-serif;
+        color: black;
+        
+        position: absolute;
+        padding-top: 40px;
+        top: 420px;
+        left: 1150px;
+        text-align: center;
+   
+
+
+
+
+
+
+    }
+
+    #texto3 {
+
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        text-align: center;
+        color: black;
+        
+       
+            position: absolute;
+            padding-top: 40px;
+            top: 450px;
+            left: 1130px;
+            text-align: center;
+        
+        
+
+
+
+    }
+
+#naturezaimagem {
+
+    position: absolute;
+    float: center;
+    width: 1920px;
+    height: 400px;
+    left: 0px;
+    top: 700px;
+
+    
+    
+
+
+
+
+}
+
+
+#textoimagem {
+
+
+    position: absolute;
+    float: center;
+    font-size: 50px;
+    left: 540px;
+    top: 850px;
+
+
+
+}
+
+
+#txt3 {
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 35px;
+    top: 1100px;
+    left: 800px;
+
+
+
+
+
+}
+
+#pesquisa1  {
+
+    
+    
+    position: absolute;
+    width: 209px;
+    height: 41px;
+    left: 500px;
+    top: 1250px;
+    
+    background: #DAF5FF;
+    border: 1px solid #22A0A0;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+
+
+
+
+
+}
+
+
+#pesquisa2  {
+
+    
+    
+    position: absolute;
+    width: 800px;
+    height: 200px;
+    left: 500px;
+    top: 1300px;
+    
+    background-color: #DAF5FF;
+    color: #696363;
+    border: 1px solid #22A0A0;
+    
+    border-radius: 10px;
+
+
+
+
+
+
+
+}
+
+
+
+
+#botao1 {
+
+    position: absolute;
+    width: 209px;
+    height: 41px;
+    left: 1090px;
+    top: 1250px;
+    
+   
+    background: #70A3A3;
+    color: white;
+
+    
+    border-radius: 10px;
+
+
+
+
+
+}
+
+#botao2 {
+
+    position: absolute;
+    width: 209px;
+    height: 50px;
+    left: 1090px;
+    top: 1530px;
+    
+   
+    background: #155050;
+    color: white;
+
+    
+    border-radius: 10px;
+
+
+
+
+
+}
+
+

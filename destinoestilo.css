@@ -1,0 +1,451 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700;800&family=Inter:wght@400;700&display=swap');
+
+
+#banner {
+    height: 1000px;
+    max-width: 1100px;
+    margin-top: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+    }
+    
+    header{
+        font-family: 'Dosis', sans-serif;
+        background: #22A0A0;
+        position: absolute;
+    
+        width: 1920px;
+        height: 158px;
+        left: 0px;
+        top: 0px;
+    
+    }
+    
+    
+    
+    body{
+        font-family: 'Inter', sans-serif;
+    color: #FFFF;
+    
+    
+    }
+    
+    #banner {
+    height: 1000px;
+    max-width: 1100px;
+    margin-top: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+    }
+    
+    #logo {
+    
+    min-width:  100px;
+    height: 90px;
+    left: 1000px;
+    top: 50px; 
+    
+    
+    
+    
+    }
+    
+    #pesquisa input { 
+    
+        width: 257px;
+        height: 36px;
+        margin-left: 1px;
+        border-radius: 10px;
+        margin-top: 75px; 
+        background-color: white;
+        display: block;
+        left: 350px;
+    }
+    #pesquisa img {
+    
+       
+            position: absolute;
+            padding-top: 2px;
+            top: 76px;
+            left: 1000px;
+            transform: matrix(0, -1, -1, 0, 0, 0);
+        
+        
+    
+    }
+    
+    #menu{
+     
+     top: 41px;
+     height: 80px;
+    
+    
+    }
+    
+    #menu ul a{ 
+    
+     list-style: none;
+     text-decoration: none;
+     color: white;
+    
+    }
+    
+    
+    header ul {
+    
+        display: flex;
+    
+    
+    }
+    
+    header ul li{ 
+    display: inline-block;
+    color: #FFFFFF;
+    list-style: none;
+    margin-top: 60px;
+    padding: 7px;
+    
+    
+    
+    }
+    
+    header ul li:hover, header ul li.selecionado {
+    
+        border-bottom: 2px solid #FFFFFF ; 
+    
+    }
+    
+    #rodape {
+    
+        font-family: 'Dosis', sans-serif;
+        background: #22A0A0;
+        position: absolute;
+        width: 1920px;
+        height: 158px;
+        left: 0px;
+        top: 1400px;
+    
+    
+    
+    
+    }
+    
+    #inforodape {
+    
+        font-family: 'Inter', sans-serif;
+        margin-top: 30px;
+        margin-left: 300px;
+    
+    
+    
+    
+    }
+    
+    #inforempresa {
+    
+        font-family: 'Inter', sans-serif;
+    
+    
+    
+    }
+    
+    #logorodape {
+        
+        position: absolute;
+        padding-top: 2px;
+        top: 40px;
+        left: 1450px;
+        
+       
+       
+       
+    
+    
+    }   
+
+    #conheca {
+
+        font-family: 'Dosis', sans-serif;
+        color: black;
+        position: absolute;
+        padding-top: 35px;
+        top: 150px;
+        left: 800px;
+    }
+
+
+    #card1 {
+
+        position: absolute;
+        width: 1920px;
+        height: 266px;
+        left: 0px;
+        top: 260px;
+        background-color: #DDF2F2;
+
+        
+
+
+
+    }
+
+
+    #pessoasimagem {
+        position: absolute;
+        width: 477px;
+        height: 212px;
+        left: 760px;
+        top: 550px;
+
+
+    }
+
+
+    #infocard2 {
+
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        
+            color: black;
+            position: absolute;
+            padding-top: 40px;
+            top: 540px;
+            left: 400px;
+            text-align: center;
+
+    
+
+
+
+    }
+
+  #saiba11 {
+
+    
+
+    font-family: 'Inter', sans-serif;
+       color: black;
+       position: absolute;
+       padding-top: 10px;
+       top: 700px;
+       left: 630px;
+       
+   
+  
+
+
+
+  }
+
+
+  #card1 {
+
+    position: absolute;
+    width: 1920px;
+    height: 266px;
+    left: 0px;
+    top: 260px;
+    background-color: #DDF2F2;
+
+    
+
+
+
+}
+
+
+#dancaimagem {
+    position: absolute;
+    width: 477px;
+    height: 212px;
+    left: 400px;
+    top: 30px;
+
+
+}
+
+
+#infocard1 {
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    
+        color: black;
+        position: absolute;
+        padding-top: 40px;
+        top: 1px;
+        left: 970px;
+        text-align: center;
+
+
+
+
+
+}
+
+#saiba10 {
+
+
+
+font-family: 'Inter', sans-serif;
+   color: black;
+   position: absolute;
+   padding-top: 10px;
+   top: 170px;
+   left: 1150px;
+   
+
+
+
+
+
+}
+
+
+#card3 {
+
+    position: absolute;
+    width: 1920px;
+    height: 266px;
+    left: 0px;
+    top: 800px;
+    background-color: #DDF2F2;
+
+    
+
+
+
+}
+
+
+#fantasiasimagem  {
+
+    position: absolute;
+    width: 477px;
+    height: 212px;
+    left: 400px;
+    top: 30px;
+
+
+
+
+}
+
+
+#infocard3 {
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    
+        color: black;
+        position: absolute;
+        padding-top: 40px;
+        top: 1px;
+        left: 970px;
+        text-align: center;
+
+
+
+
+
+}
+
+#saiba12 {
+
+
+
+    font-family: 'Inter', sans-serif;
+       color: black;
+       position: absolute;
+       padding-top: 10px;
+       top: 170px;
+       left: 1150px;
+       
+    
+    
+    
+    
+    
+    }
+
+
+    #card3 {
+
+        position: absolute;
+        width: 1920px;
+        height: 266px;
+        left: 0px;
+        top: 800px;
+        background-color: #DDF2F2;
+    
+        
+    
+    
+    
+    }
+    
+    
+    #comidaimagem  {
+    
+        position: absolute;
+        width: 477px;
+        height: 212px;
+        left: 760px;
+        top: 1130px;
+
+    
+    
+    
+    }
+    
+    
+    #infocard4 {
+    
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        
+            color: black;
+            position: absolute;
+            padding-top: 40px;
+            top: 1120px;
+            left: 400px;
+            text-align: center;
+    
+    
+    
+    
+    
+    }
+    
+    #saiba13 {
+    
+    
+    
+       
+    font-family: 'Inter', sans-serif;
+    color: black;
+    position: absolute;
+    padding-top: 10px;
+    top: 1270px;
+    left: 630px;
+    
+        
+        
+        
+        
+        
+    }
